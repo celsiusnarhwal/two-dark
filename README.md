@@ -28,4 +28,4 @@ Check it out.
 
 ## License
 
-Two Dark is licensed under the [WTFPl](LICENSE.md).
+Two Dark is licensed under the [WTFPL](LICENSE.md).
