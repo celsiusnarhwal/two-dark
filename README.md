@@ -16,7 +16,7 @@ repository's name, enter `celsiusnarhwal/two-dark`.
 ### Manual Installation
 
 Clone this repository, then open iTerm2 and go
-to `Preferences...` > `Profiles` > `Colors` > `Color Presets...` > `Import...`. Navigate to `Beenine.itermcolors` and
+to `Preferences...` > `Profiles` > `Colors` > `Color Presets...` > `Import...`. Navigate to `Two Dark.itermcolors` and
 click `Open`.
 
 ## Preview
